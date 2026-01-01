@@ -1,24 +1,6 @@
-<table width="100%">
-<tr>
-    <td valign="center" width="50%">
-        <h3>Hello there 👋,<br> I'm Jules Maulard</h3>
-        <!-- <p>Software Engineering Student</p> -->
-    </td>
-    <td valign="center" width="50%" align="right">
-        <a href="https://www.google.com/maps/place/Bordeaux,+France/">
-            <code>📍Bordeaux, France</code>
-        </a>
-        <br>
-        <a href="mailto:jmaulard@gmail.com">
-            <code>📫 jmaulard@gmail.com</code>
-        </a>
-        <br>
-        <a href="https://www.linkedin.com/in/jules-maulard">
-            <code>💼 @jules-maulard</code>
-        </a>
-    </td>
-</tr>
-</table>
+### Hello there 👋, I'm Jules Maulard
+
+<a href="https://www.google.com/maps/place/Bordeaux,+France/"><code>📍 Bordeaux, France</code></a> &nbsp;|&nbsp; <a href="mailto:jmaulard@gmail.com"><code>📫 jmaulard@gmail.com</code></a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/jules-maulard"><code>💼 @jules-maulard</code></a>
 
 
 
